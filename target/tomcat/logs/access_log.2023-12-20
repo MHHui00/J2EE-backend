@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:44 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-1 244
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:57 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-3 3
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:58 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-4 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:58 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-5 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:59 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-6 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:59 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-7 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:20:59 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-8 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:10 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-9 4
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:10 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:11 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:11 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:11 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:21:21:56 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 - http-bio-80-exec-10 4
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:23:52:24 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 13177 http-bio-80-exec-1 908
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:23:56:39 +0800] "GET /goods/getAllGoodsInfo HTTP/1.1" 200 13179 http-bio-80-exec-4 182
